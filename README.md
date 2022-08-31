@@ -4,3 +4,4 @@
 - 35-2 Object method access and set property values
 - 35-3 Keys, values, entries, delete, seal, freeze
 - 35-4 Loop through an object using for in, for of, object entries
+- 35-5 (advanced) Compare objects, referential integrity
