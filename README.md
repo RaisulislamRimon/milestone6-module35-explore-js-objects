@@ -7,4 +7,4 @@
 - 35-5 (advanced) Compare objects, referential integrity
 - 35-6 (optional) Borrow method from object and use it on another object
 - 35-7 (super advanced) Understand this keyword in JavaScript
-- 
+- 35-8 Module summary and checklist
